@@ -31,3 +31,4 @@ function sayHiToGrandma(string) {
 elseif (uppercase.toUpperCase === uppercase) {'YES INDEED!'}
 else {'I love you, too.'}
 }
+sayHiToGrandma(hello)
