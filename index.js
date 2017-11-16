@@ -33,3 +33,5 @@ else if (string === 'I love you, Grandma.'){return('I love you, too.')}
 else {return('I love you, too.')}
 }
 sayHiToGrandma('HELLO')
+sayHiToGrandma('hello')
+sayHiToGrandma('I love you, Grandma.')
