@@ -18,9 +18,9 @@ function logWhisper(string) {
 }
 logWhisper('HELLO')
 
-var lowercase = 'hello'
-var uppercase = 'HELLO'
-var mixedcase = 'Hi There'
+//var lowercase = 'hello'
+//var uppercase = 'HELLO'
+//var mixedcase = 'Hi There'
 //lowercase.toLowerCase === lowercase
 //uppercase.toUpperCase === uppercase
 //mixedcase.toLowerCase === mixedcase
