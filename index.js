@@ -37,5 +37,3 @@ else if (string === string.toUpperCase()) {
 }
 
 sayHiToGrandma('HELLO')
-sayHiToGrandma('hello')
-sayHiToGrandma('I love you, Grandma.')
