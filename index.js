@@ -9,14 +9,14 @@ function whisper(string) {
 whisper('Hello')
 
 function logShout(string) {
-  console.log(string)
+  console.log(string.toUpperCase())
 }
-logShout('HELLO')
+logShout('hello')
 
 function logWhisper(string) {
-  console.log(string)
+  console.log(string.toLowerCase())
 }
-logWhisper('hello')
+logWhisper('HELLO')
 
 var lowercase = 'hello'
 var uppercase = 'HELLO'
