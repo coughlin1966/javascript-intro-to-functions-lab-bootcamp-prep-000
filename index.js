@@ -1,4 +1,4 @@
 function shout(string) {
   return string.ToUpperCase
 }
-shout('Hello')
+shout('Hello!')
