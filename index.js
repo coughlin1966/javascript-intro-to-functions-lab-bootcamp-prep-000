@@ -34,6 +34,6 @@ function sayHiToGrandma(string) {if (uppercase.toUpperCase() === uppercase) {ret
 function sayHiToGrandma(string) {if (string === 'I love you, Grandma.'){return('I love you, too.')}
 }
 
-sayHiToGrandma('HELLO')
-//sayHiToGrandma('hello')
+//sayHiToGrandma('HELLO')
+sayHiToGrandma('hello')
 //sayHiToGrandma('I love you, Grandma.')
