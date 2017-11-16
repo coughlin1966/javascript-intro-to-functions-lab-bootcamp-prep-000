@@ -32,4 +32,4 @@ else if (uppercase.toUpperCase() === uppercase) {return('YES INDEED!')}
 else {return('I love you, too.')}
 
 }
-sayHiToGrandma('hello')
+sayHiToGrandma('Hello')
