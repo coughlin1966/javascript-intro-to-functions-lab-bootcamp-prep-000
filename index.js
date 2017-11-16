@@ -26,13 +26,20 @@ var mixedcase = 'Hi There'
 //mixedcase.toLowerCase === mixedcase
 //mixedcase.toUpperCase === mixedcase
 
-function sayHiToGrandma(string) {
-  if (lowercase.toLowerCase() === lowercase) {return('I can\'t hear you!')}
-}
-function sayHiToGrandma(string) {if (uppercase.toUpperCase() === uppercase) {return('YES INDEED!')}
-}
-function sayHiToGrandma(string) {if (string === 'I love you, Grandma.'){return('I love you, too.')}
-}
+function sayHiToGrandma(string){
++    if (string === string.toLowerCase()){
++      var lowerCase = string.toLowerCase();
++      return ('I can\'t hear you!');
++    }
++    else if (string === string.toUpperCase()){
++      var upperCase = 'YES INDEED!';
++      return ('YES INDEED!');
++      }
++      else{
++        var mixedCase = 'I love you, too.';
++        return(mixedCase);
++      }
++    }
 
 //sayHiToGrandma('HELLO')
 sayHiToGrandma('hello')
