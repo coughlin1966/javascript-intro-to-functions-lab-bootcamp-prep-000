@@ -36,6 +36,6 @@ else if (string === string.toUpperCase()) {
   return 'I love you, too.'
 }
 
-//sayHiToGrandma('HELLO')
-//sayHiToGrandma('hello')
-//sayHiToGrandma('I love you, Grandma.')
+sayHiToGrandma('HELLO')
+sayHiToGrandma('hello')
+sayHiToGrandma('I love you, Grandma.')
