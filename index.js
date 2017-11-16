@@ -20,6 +20,10 @@ logWhisper('hello')
 
 var lowercase = 'hello'
 var uppercase = 'HELLO'
+var mixedcase = 'Hi There'
 lowercase.toLowerCase === lowercase
 uppercase.toUpperCase === uppercase
+mixedcase.toLowerCase === mixedcase
+mixedcase.toUpperCase === mixedcase
 
+function 
